@@ -23,3 +23,4 @@ insert into tb_1 values
 	(5, '小藍', '數學', 100, 'pass'),
 	(6, '小藍', '國文', 26, 'fail');
  
+ 
